@@ -1,4 +1,4 @@
-![](https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png)
+![Logo da Faculdade Impacta](/images/impacta.png)
 
 ## [Faculdade Impacta](https://www.impacta.edu.br/), 08/2020 à 08/2022
 
