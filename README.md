@@ -6,8 +6,6 @@
 
 ## Exercícios e atividades desenvolvidos durante o curso
 
-<p> </p>
-
 ## 1º Semestre
 
   > - [Linguagem de Programação](https://github.com/anjosanap/Faculdade/tree/main/1_semestre/linguagem_programacao)
