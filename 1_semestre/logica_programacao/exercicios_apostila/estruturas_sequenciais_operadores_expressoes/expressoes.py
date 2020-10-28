@@ -1,0 +1,5 @@
+print('Qual o resultado das expressões abaixo?')
+print('a) (2 + 3) * 4 | R: ', (2 + 3) * 4)
+print('b) 2 + (3 * 4) | R: ', 2 + (3 * 4))
+print('c) 2 + ((3 * 4) - 8) | R: ', 2 + ((3 * 4) - 8))
+print('d) 2 + 3 * (4 - 1) | R: ', 2 + 3 * (4 - 1))
