@@ -5,6 +5,7 @@ def main():
 
 def conta_digitos(entrada_usuario):
     digitos = 0
+
     for _ in entrada_usuario:
         digitos += 1
     print(digitos)

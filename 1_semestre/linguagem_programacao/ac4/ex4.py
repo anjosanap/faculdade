@@ -5,6 +5,7 @@ def main():
 
 def conta_characteres(entrada_usuario):
     char = 0
+
     for _ in entrada_usuario:
         char += 1
     print(char)
